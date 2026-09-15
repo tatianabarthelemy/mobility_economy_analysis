@@ -113,21 +113,17 @@ Los resultados sugieren que Bogotá podría ser considerada como candidata para 
 
 ## ▶️ Cómo abrir el notebook en Google Colab
 
-El notebook puede abrirse utilizando Google Colab.
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tatianabarthelemy/mobility_economy_analysis/blob/main/mobility_economy_analysis.ipynb)
 
-### Opción 1: desde el archivo descargado
+Haz clic en el botón anterior para abrir directamente el notebook en Google Colab.
 
-1. Descarga `mobility_economy_analysis.ipynb` desde este repositorio.
-2. Abre Google Colab.
-3. Selecciona **Archivo → Subir cuaderno**.
-4. Selecciona el archivo `.ipynb`.
-
-### Opción 2: desde GitHub
+### Opción alternativa
 
 1. Abre Google Colab.
-2. Selecciona la opción **GitHub**.
-3. Busca este repositorio.
-4. Selecciona `mobility_economy_analysis.ipynb`.
+2. Selecciona **Archivo → Abrir cuaderno**.
+3. Selecciona **GitHub**.
+4. Busca el repositorio `tatianabarthelemy/mobility_economy_analysis`.
+5. Abre `mobility_economy_analysis.ipynb`.
 
 ---
 
